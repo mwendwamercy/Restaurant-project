@@ -1,3 +1,4 @@
+Navbar
 <template>
     <v-app-bar color="blue" >
         <div>

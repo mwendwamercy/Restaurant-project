@@ -1,5 +1,5 @@
 <template>
-    <hi>Restaurant-List </hi>
+    <hi>Restaurant-List</hi>
 </template>
 
 <script setup>

@@ -1,5 +1,5 @@
 <template>
-    <hi>ContactUs </hi>
+    <hi>ContactUs</hi>
 </template>
 
 <script setup>

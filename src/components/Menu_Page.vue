@@ -1,5 +1,5 @@
 <template>
-    <hi>Menu_Page </hi>
+    <hi>Menu_Page</hi>
 </template>
 
 <script setup>

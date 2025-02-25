@@ -1,6 +1,5 @@
-
 <template>
-    <hi>Booking_Page </hi>
+    <hi>Booking_Page</hi>
 </template>
 
 <script setup>

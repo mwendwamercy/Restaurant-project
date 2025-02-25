@@ -1,4 +1,3 @@
-App vue
 <template>
   <v-app>
     <Navbar/>
@@ -12,7 +11,6 @@ App vue
 
 import { RouterView } from 'vue-router'
 import Navbar from './components/NavBar.vue'
-
 
 </script>
 

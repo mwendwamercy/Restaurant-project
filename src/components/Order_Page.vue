@@ -1,5 +1,5 @@
 <template>
-    <hi>Order_Pge </hi>
+    <hi>Order_Page</hi>
 </template>
 
 <script setup>
